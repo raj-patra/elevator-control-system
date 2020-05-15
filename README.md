@@ -29,6 +29,3 @@ show exact match with the desired results which proves our design validity.
 ### File Types
 
 > **project.DSN** - Design Schematic File
-
-### UI Snapshots
-![Interface_1](https://github.com/raj-patra/Elevator-control-system/tree/master/Snapshots/Total_Architecture.jpg)
