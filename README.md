@@ -15,10 +15,12 @@ show exact match with the desired results which proves our design validity.
 ### About
 
 > Ideal project for Digital Electronics Circuits for Electronics Undergrads.
+
 > Doesn't use any Micro-processor or Micro-controller components.
+
 > Do mention the original authors of the refernce paper attached in any type of project report you make.
 
-Executing the code
+### Executing the code
 
 1.	Make sure Proteus 7 Professional is installed
 2.	Open the Design Schematic file in Proteus
