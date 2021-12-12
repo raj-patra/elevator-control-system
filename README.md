@@ -14,11 +14,9 @@ show exact match with the desired results which proves our design validity.
 
 ### About
 
-> Ideal project for Digital Electronics Circuits for Electronics Undergrads.
-
-> Doesn't use any Micro-processor or Micro-controller components.
-
-> Do mention the original authors of the refernce paper attached in any type of project report you make.
+* Ideal project for Digital Electronics Circuits for Electronics Undergrads.
+* Doesn't use any Micro-processor or Micro-controller components.
+* Do mention the original authors of the refernce paper attached in any type of project report you make.
 
 ### Executing the code
 
