@@ -25,5 +25,6 @@ show exact match with the desired results which proves our design validity.
 3.  Simulate and try out different inputs
 
 ### File Types
-
-> **project.DSN** - Design Schematic File
+```
+project.DSN - Design Schematic File
+```
